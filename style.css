@@ -1,0 +1,11 @@
+html,
+body {
+  background-color: beige;
+}
+
+header {
+  width: 1366px;
+  height: 60px;
+  background-color: #9013fe;
+  display: block;
+}
